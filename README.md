@@ -1,0 +1,2 @@
+# sweets-blog
+sweetsアフィリエイト用
