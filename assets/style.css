@@ -3,3 +3,5 @@ header a{font-weight:700;text-decoration:none;color:#c0392b}
 img{max-width:100%;height:auto}
 .pr{background:#fff4e5;border-left:4px solid #e67e22;padding:8px 12px;font-size:.9em}
 footer{margin-top:48px;font-size:.8em;color:#666;border-top:1px solid #ddd}
+.aff{margin:24px 0 8px;font-weight:700}
+.aff-banner{margin:0 0 24px}

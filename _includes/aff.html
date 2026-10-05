@@ -1,0 +1,11 @@
+{%- assign a = site.data.affiliate[include.id] -%}
+{%- if a -%}
+<p class="aff">
+<a href="{{ a.href }}" target="_blank" rel="nofollow sponsored noopener">{{ a.label }}の公式ページを見る【PR】</a>
+</p>
+<p class="aff-banner">
+<a href="{{ a.href }}" target="_blank" rel="nofollow sponsored noopener"><img src="{{ a.img }}" alt="{{ a.label }}" loading="lazy"></a>
+</p>
+{%- else -%}
+{%- comment -%}未定義のIDはビルドを壊さず空にする（checker.py が記事側で検出する）{%- endcomment -%}
+{%- endif -%}

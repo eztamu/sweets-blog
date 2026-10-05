@@ -1,0 +1,10 @@
+# 楽天アフィリエイトのリンク（公開情報。認証情報は置かない）
+# 記事側は {% include aff.html id="mobile" %} のように呼ぶ。
+mobile:
+  label: 楽天モバイル（Rakuten最強プラン）
+  href: "https://hb.afl.rakuten.co.jp/hsc/583c0782.7efeb9ac.1a53f6c5.247ee2fd/?link_type=pict&rafst=rmn&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MjM3Nzg5NiwiYW1wIjpmYWxzZX0%3D"
+  img: "https://hbb.afl.rakuten.co.jp/hsb/583c0782.7efeb9ac.1a53f6c5.247ee2fd/?me_id=2101065&me_adv_id=2377896&t=pict"
+card:
+  label: 楽天カード
+  href: "https://hb.afl.rakuten.co.jp/hsc/583c0b3a.3631b0bb.1a53f6c5.247ee2fd/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  img: "https://hbb.afl.rakuten.co.jp/hsb/583c0b3a.3631b0bb.1a53f6c5.247ee2fd/?me_id=2101008&me_adv_id=167401&t=pict"
