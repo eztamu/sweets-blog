@@ -1,0 +1,12 @@
+title: スイーツ侍の楽天経済圏ノート
+description: スイーツ侍の漫画でわかる、楽天のお得とギフト選び
+url: https://sweets.tmlaboratory.net
+lang: ja
+timezone: Asia/Tokyo
+permalink: /:categories/:year/:month/:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+defaults:
+  - scope: {path: "", type: "posts"}
+    values: {layout: post}
