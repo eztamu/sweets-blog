@@ -1,7 +1,81 @@
-body{font-family:system-ui,"Hiragino Sans","Noto Sans JP",sans-serif;max-width:720px;margin:0 auto;padding:16px;line-height:1.8;color:#222}
-header a{font-weight:700;text-decoration:none;color:#c0392b}
+:root{
+  --washi:#f7f3ea; --paper:#fffdf8; --sumi:#222; --usu:#6b655b;
+  --shu:#b7282e; --ai:#1f3a5f; --line:#d8d0bf; --kin:#b8963e;
+}
+*{box-sizing:border-box}
+html{background:var(--washi)}
+body{
+  margin:0; color:var(--sumi); line-height:1.95; letter-spacing:.02em;
+  font-family:"Hiragino Sans","Noto Sans JP",system-ui,sans-serif;
+  background:var(--washi);
+  background-image:radial-gradient(circle at 1px 1px,rgba(120,100,60,.07) 1px,transparent 0);
+  background-size:14px 14px;
+}
+.wrap{max-width:720px;margin:0 auto;padding:0 18px}
+a{color:var(--ai);text-underline-offset:3px}
+a:hover{color:var(--shu)}
 img{max-width:100%;height:auto}
-.pr{background:#fff4e5;border-left:4px solid #e67e22;padding:8px 12px;font-size:.9em}
-footer{margin-top:48px;font-size:.8em;color:#666;border-top:1px solid #ddd}
-.aff{margin:24px 0 8px;font-weight:700}
-.aff-banner{margin:0 0 24px}
+
+/* ヘッダー：朱の判 + 明朝のタイトル */
+.site-header{background:var(--ai);color:#fff;border-bottom:3px solid var(--kin);position:relative}
+/* 青海波（せいがいは）の帯 */
+.site-header::after{content:"";display:block;height:14px;
+  background:
+   radial-gradient(circle at 50% 100%,transparent 4px,rgba(255,255,255,.35) 4px 5px,transparent 5px 8px,rgba(255,255,255,.35) 8px 9px,transparent 9px 12px,rgba(255,255,255,.35) 12px 13px,transparent 13px) 0 0/26px 14px,
+   var(--ai);
+  opacity:.9}
+.site-header .wrap{display:flex;align-items:center;gap:14px;padding-top:16px;padding-bottom:16px}
+.site-header a{text-decoration:none;color:#fff;display:flex;align-items:center;gap:14px}
+.hanko{
+  flex:none;width:42px;height:42px;border-radius:4px;background:var(--shu);color:#fff;
+  display:grid;place-items:center;font:700 24px/1 "Noto Serif JP","Hiragino Mincho ProN",serif;
+  transform:rotate(-4deg);box-shadow:0 0 0 2px var(--paper),0 0 0 3px var(--shu);
+}
+.site-title{font:700 1.1rem/1.4 "Noto Serif JP","Hiragino Mincho ProN",serif;letter-spacing:.08em}
+.site-sub{display:block;font:400 .72rem/1.2 system-ui,sans-serif;color:#c9d4e6;letter-spacing:.18em}
+
+/* 本文：紙のカード */
+main{max-width:720px;margin:28px auto;padding:28px 22px 36px;background:var(--paper);
+  border:1px solid var(--line);box-shadow:0 1px 0 var(--line),0 8px 24px rgba(60,50,30,.05)}
+h1,h2,h3{font-family:"Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",serif;line-height:1.5;color:var(--sumi)}
+h1{font-size:1.55rem;margin:.2em 0 .8em;padding-bottom:.5em;border-bottom:2px solid var(--sumi);position:relative}
+h1::after{content:"";position:absolute;left:0;bottom:-2px;width:64px;height:2px;background:var(--shu)}
+h2{font-size:1.25rem;margin:2.2em 0 .8em;padding:.1em 0 .1em .8em;border-left:5px solid var(--shu)}
+h3{font-size:1.05rem;margin:1.8em 0 .6em;padding-bottom:.2em;border-bottom:1px dashed var(--line)}
+p{margin:0 0 1.1em}
+ul,ol{padding-left:1.4em;margin:0 0 1.2em}
+li{margin:.3em 0}
+li::marker{color:var(--shu)}
+blockquote{margin:1.4em 0;padding:.6em 1em;border-left:3px solid var(--kin);background:var(--washi);color:var(--usu)}
+hr{border:0;border-top:1px solid var(--line);margin:2em 0}
+table{border-collapse:collapse;width:100%;margin:1.2em 0;font-size:.95em}
+th,td{border:1px solid var(--line);padding:.55em .8em;text-align:left;vertical-align:top}
+th{background:var(--washi);font-weight:700}
+
+/* 漫画：額縁風 */
+article>p>img:first-child, article img[alt*="漫画"]{
+  display:block;margin:1.2em auto;padding:8px;background:#fff;border:1px solid var(--sumi);
+  box-shadow:4px 4px 0 var(--line)}
+
+/* 広告表記 */
+.pr{background:var(--washi);border:1px solid var(--line);border-left:4px solid var(--kin);
+  padding:8px 12px;font-size:.85rem;color:var(--usu);margin:0 0 1.4em}
+
+/* CTA：朱のボタン */
+.aff{margin:28px 0 10px;text-align:center}
+.aff a{display:inline-block;padding:.85em 1.6em;background:var(--shu);color:#fff;font-weight:700;
+  text-decoration:none;border-radius:3px;letter-spacing:.06em;box-shadow:0 3px 0 #8d1e23}
+.aff a:hover{background:#9f2328;color:#fff}
+.aff a:active{transform:translateY(2px);box-shadow:0 1px 0 #8d1e23}
+.aff-banner{margin:0 0 28px;text-align:center}
+
+/* トップの記事一覧 */
+.post-list{list-style:none;padding:0}
+.post-list li{padding:.9em 0;border-bottom:1px solid var(--line);margin:0}
+.post-list .date{display:block;font-size:.8rem;color:var(--usu);letter-spacing:.1em}
+.post-list a{font:700 1.02rem/1.6 "Noto Serif JP","Hiragino Mincho ProN",serif;text-decoration:none;color:var(--sumi)}
+.post-list a:hover{color:var(--shu)}
+
+.site-footer{max-width:720px;margin:0 auto 40px;padding:0 18px;font-size:.78rem;color:var(--usu);text-align:center}
+.site-footer p{margin:.3em 0}
+@media (max-width:560px){main{margin:0;border-left:0;border-right:0;padding:22px 16px 30px}h1{font-size:1.35rem}}
