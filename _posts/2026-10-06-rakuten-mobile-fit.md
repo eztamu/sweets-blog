@@ -5,6 +5,10 @@ description: "楽天モバイル（Rakuten最強プラン）が向いている�
 ---
 ![スイーツ侍の4コマ漫画](/assets/img/rakuten-mobile-intro.jpg)
 
+<video controls preload="metadata" playsinline poster="/assets/img/talk-mobile-poster.jpg" style="width:100%;height:auto"><source src="/assets/video/talk-mobile.mp4" type="video/mp4"></video>
+
+30秒の動画でも解説しています（スイーツ侍・おみつ・和菓子仙人の掛け合い。条件は公式ページでご確認ください）。
+
 ## 【結論】データをよく使う人には候補になる一方、速度の安定が必須の人は先に確認を
 
 Rakuten最強プランは、データをよく使い、毎月の使用量が読みにくい人に向いています。反対に、速度が常に安定していることが必須の人や、通話が多い人は、先に公式ページで条件を確認したほうが安心です。
