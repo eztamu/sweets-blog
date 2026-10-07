@@ -5,10 +5,6 @@ description: "楽天カードが向いている人・向いていない人を、
 ---
 ![スイーツ侍の4コマ漫画](/assets/img/rakuten-card-intro.jpg)
 
-<video controls preload="metadata" playsinline poster="/assets/img/talk-card-poster.jpg" style="width:100%;height:auto"><source src="/assets/video/talk-card.mp4" type="video/mp4"></video>
-
-30秒の動画でも解説しています（スイーツ侍・おみつ・和菓子仙人の掛け合い。特典・条件は公式ページでご確認ください）。
-
 ## 【結論】年会費をかけずにカードを作りたい人向け。すでに楽天カードを持つ人は対象外でござる
 
 楽天カードは、これから新しくクレジットカードを作りたく、年会費は避けたい人に向いています。すでに楽天カードを持っている人は紹介の対象外なので、この記事は読まなくて大丈夫です。
@@ -20,6 +16,12 @@ description: "楽天カードが向いている人・向いていない人を、
 - 申し込みの流れと、申し込む前の注意
 
 {% include aff.html id="card" %}
+
+## 30秒でおさらい
+
+<video controls preload="metadata" playsinline poster="/assets/img/talk-card-poster.jpg" style="width:100%;height:auto"><source src="/assets/video/talk-card.mp4" type="video/mp4"></video>
+
+スイーツ侍・おみつ・和菓子仙人の掛け合いで、ここまでの要点を30秒にまとめました（特典・条件は公式ページでご確認ください）。
 
 ## おやつ代が足りぬ…カードを作りたいが、年会費が気になる人へ
 
