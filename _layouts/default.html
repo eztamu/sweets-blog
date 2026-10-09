@@ -8,12 +8,20 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500;700&display=swap">
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WY0R020YFE"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-WY0R020YFE');
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-aff]');if(!a)return;
+gtag('event','aff_click',{aff_id:a.getAttribute('data-aff'),aff_pos:a.getAttribute('data-pos'),page_path:location.pathname});});
+</script>
 </head>
 <body>
 <header class="site-header"><div class="wrap"><a href="{{ '/' | relative_url }}"><span class="hanko" aria-hidden="true">甘</span><span><span class="site-title">{{ site.title }}</span><span class="site-sub">SWEETS SAMURAI NOTE</span></span></a></div></header>
 <main>{{ content }}</main>
 <footer class="site-footer">
 <p>当サイトはアフィリエイト広告（楽天アフィリエイト等）を利用しています。</p>
+<p>当サイトはアクセス解析にGoogleアナリティクスを利用しています。データは匿名で収集され、個人を特定するものではありません。</p>
 <p>漫画はフィクションです。価格・条件は掲載時点のものです。最新情報は各公式サイトでご確認ください。</p>
 </footer>
 </body>
