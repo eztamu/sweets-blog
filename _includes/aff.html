@@ -3,9 +3,11 @@
 <p class="aff">
 <a data-aff="{{ include.id }}" data-pos="button" href="{{ a.href }}" target="_blank" rel="nofollow sponsored noopener">{{ a.label }}の公式ページを見る【PR】</a>
 </p>
+{%- if a.img -%}
 <p class="aff-banner">
 <a data-aff="{{ include.id }}" data-pos="banner" href="{{ a.href }}" target="_blank" rel="nofollow sponsored noopener"><img src="{{ a.img }}" alt="{{ a.label }}" loading="lazy"></a>
 </p>
+{%- endif -%}
 {%- else -%}
 {%- comment -%}未定義のIDはビルドを壊さず空にする（checker.py が記事側で検出する）{%- endcomment -%}
 {%- endif -%}
