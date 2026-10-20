@@ -14,3 +14,6 @@ xmas-cake:
 osechi:
   label: 楽天市場（おせちの検索結果）
   href: "https://hb.afl.rakuten.co.jp/hgc/3412f8b8.ba39985b.3412f8b9.97db65b2/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E3%2581%259B%25E3%2581%25A1%25202027%2F&m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E3%2581%259B%25E3%2581%25A1%25202027%2F"
+oseibo:
+  label: 楽天市場（お歳暮の検索結果）
+  href: "https://hb.afl.rakuten.co.jp/hgc/3412f8b8.ba39985b.3412f8b9.97db65b2/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E6%25AD%25B3%25E6%259A%25AE%25202026%2F&m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E6%25AD%25B3%25E6%259A%25AE%25202026%2F"
