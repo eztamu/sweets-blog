@@ -17,3 +17,6 @@ osechi:
 oseibo:
   label: 楽天市場（お歳暮の検索結果）
   href: "https://hb.afl.rakuten.co.jp/hgc/3412f8b8.ba39985b.3412f8b9.97db65b2/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E6%25AD%25B3%25E6%259A%25AE%25202026%2F&m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E6%25AD%25B3%25E6%259A%25AE%25202026%2F"
+furusato:
+  label: 楽天市場（ふるさと納税の検索結果）
+  href: "https://hb.afl.rakuten.co.jp/hgc/3412f8b8.ba39985b.3412f8b9.97db65b2/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25B5%25E3%2582%258B%25E3%2581%2595%25E3%2581%25A8%25E7%25B4%258D%25E7%25A8%258E%25202026%2F&m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25B5%25E3%2582%258B%25E3%2581%2595%25E3%2581%25A8%25E7%25B4%258D%25E7%25A8%258E%25202026%2F"
