@@ -1,0 +1,21 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>スイーツ侍の楽天経済圏ノート（年末年始の準備）</title>
+<link>{{ site.url }}/</link>
+<description>年末年始の準備を楽天市場で予約・申し込む前に確認したいことを、4コマ漫画つきで整理した記事の一覧</description>
+<language>ja</language>
+{% for p in site.data.pinterest %}{% if p.feed == "nenmatsu" and p.manual_pin != true %}<item>
+<title>{{ p.title | xml_escape }}</title>
+<link>{{ p.link | xml_escape }}</link>
+<guid isPermaLink="false">{{ p.slug }}</guid>
+<pubDate>{{ p.date | date_to_rfc822 }}</pubDate>
+<description>{{ p.description | xml_escape }}</description>
+<enclosure url="{{ p.image }}" type="image/jpeg" length="{{ p.image_bytes }}"/>
+</item>
+{% endif %}{% endfor %}</channel>
+</rss>
