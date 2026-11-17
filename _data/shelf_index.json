@@ -1,0 +1,298 @@
+[
+ {
+  "shelf_id": "oseibo-sweets-u3000",
+  "label": "お歳暮スイーツ 3,000円未満",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "oseibo-sweets-3000",
+  "label": "お歳暮スイーツ 3,000円台",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "oseibo-sweets-5000",
+  "label": "お歳暮スイーツ 5,000円台",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "oseibo-wagashi-u3000",
+  "label": "お歳暮和菓子 3,000円未満",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "oseibo-wagashi-3000",
+  "label": "お歳暮和菓子 3,000円台",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "oseibo-wagashi-5000",
+  "label": "お歳暮和菓子 5,000円台",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "oseibo-yogashi-u3000",
+  "label": "お歳暮洋菓子 3,000円未満",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "oseibo-yogashi-3000",
+  "label": "お歳暮洋菓子 3,000円台",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "oseibo-yogashi-5000",
+  "label": "お歳暮洋菓子 5,000円台",
+  "group": "お歳暮",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "xmas-cake-4go",
+  "label": "クリスマスケーキ 4号",
+  "group": "クリスマスケーキ",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "xmas-cake-5go",
+  "label": "クリスマスケーキ 5号",
+  "group": "クリスマスケーキ",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "xmas-cake-reitou",
+  "label": "クリスマスケーキ 冷凍",
+  "group": "クリスマスケーキ",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "xmas-cake-choco",
+  "label": "クリスマスケーキ チョコ",
+  "group": "クリスマスケーキ",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "xmas-cake-allergy",
+  "label": "クリスマスケーキ アレルギー対応",
+  "group": "クリスマスケーキ",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 10
+ },
+ {
+  "shelf_id": "osechi-1nin",
+  "label": "おせち 1人前",
+  "group": "おせち",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "osechi-2-3nin",
+  "label": "おせち 2〜3人前",
+  "group": "おせち",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "osechi-4-5nin",
+  "label": "おせち 4〜5人前",
+  "group": "おせち",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "osechi-reizou",
+  "label": "おせち 冷蔵",
+  "group": "おせち",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "osechi-reitou",
+  "label": "おせち 冷凍",
+  "group": "おせち",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "furusato-ice-u10000",
+  "label": "ふるさと納税 アイス 寄付額1万円以下",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 19
+ },
+ {
+  "shelf_id": "furusato-ice-10000",
+  "label": "ふるさと納税 アイス 寄付額1万円台",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "furusato-cake-u10000",
+  "label": "ふるさと納税 ケーキ 寄付額1万円以下",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "furusato-cake-10000",
+  "label": "ふるさと納税 ケーキ 寄付額1万円台",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "furusato-wagashi-u10000",
+  "label": "ふるさと納税 和菓子 寄付額1万円以下",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 19
+ },
+ {
+  "shelf_id": "furusato-wagashi-10000",
+  "label": "ふるさと納税 和菓子 寄付額1万円台",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "furusato-choco-u10000",
+  "label": "ふるさと納税 チョコ 寄付額1万円以下",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 14
+ },
+ {
+  "shelf_id": "furusato-choco-10000",
+  "label": "ふるさと納税 チョコ 寄付額1万円台",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 10
+ },
+ {
+  "shelf_id": "furusato-fruit-u10000",
+  "label": "ふるさと納税 フルーツ 寄付額1万円以下",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 16
+ },
+ {
+  "shelf_id": "furusato-fruit-10000",
+  "label": "ふるさと納税 フルーツ 寄付額1万円台",
+  "group": "ふるさと納税",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "temiyage-u3000",
+  "label": "手土産のお菓子 3,000円未満",
+  "group": "通年のギフト",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "temiyage-3000",
+  "label": "手土産のお菓子 3,000円台",
+  "group": "通年のギフト",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "uchiiwai-u3000",
+  "label": "内祝いのお菓子 3,000円未満",
+  "group": "通年のギフト",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "uchiiwai-3000",
+  "label": "内祝いのお菓子 3,000円台",
+  "group": "通年のギフト",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "birthday-cake-u3000",
+  "label": "誕生日ケーキ 3,000円未満",
+  "group": "通年のギフト",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "birthday-cake-3000",
+  "label": "誕生日ケーキ 3,000円台",
+  "group": "通年のギフト",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "otoriyose-u3000",
+  "label": "お取り寄せスイーツ 3,000円未満",
+  "group": "通年のギフト",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ },
+ {
+  "shelf_id": "otoriyose-3000",
+  "label": "お取り寄せスイーツ 3,000円台",
+  "group": "通年のギフト",
+  "active": true,
+  "updated": "2026-11-17",
+  "count": 20
+ }
+]
