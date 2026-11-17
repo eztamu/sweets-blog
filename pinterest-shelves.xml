@@ -1,0 +1,21 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>スイーツ侍の楽天経済圏ノート（予算と用途で選ぶ）</title>
+<link>{{ site.url }}/erabu/</link>
+<description>楽天市場の商品を予算と用途ごとに一覧にし、価格と最安値を毎日更新しているページの一覧</description>
+<language>ja</language>
+{% if site.data.pinterest_shelves %}{% assign recent = site.data.pinterest_shelves | reverse %}{% for p in recent limit:30 %}<item>
+<title>{{ p.title | xml_escape }}</title>
+<link>{{ p.link | xml_escape }}</link>
+<guid isPermaLink="false">{{ p.guid | xml_escape }}</guid>
+<pubDate>{{ p.date | date_to_rfc822 }}</pubDate>
+<description>{{ p.description | xml_escape }}</description>
+<enclosure url="{{ p.image | xml_escape }}" type="image/jpeg" length="{{ p.image_bytes }}"/>
+</item>
+{% endfor %}{% endif %}</channel>
+</rss>

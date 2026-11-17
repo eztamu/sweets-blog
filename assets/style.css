@@ -79,3 +79,18 @@ article>p>img:first-child, article img[alt*="漫画"]{
 .site-footer{max-width:720px;margin:0 auto 40px;padding:0 18px;font-size:.78rem;color:var(--usu);text-align:center}
 .site-footer p{margin:.3em 0}
 @media (max-width:560px){main{margin:0;border-left:0;border-right:0;padding:22px 16px 30px}h1{font-size:1.35rem}}
+
+/* 棚ページ（/erabu/） */
+.shelf-meta{font-size:.85rem;color:var(--usu)}
+.shelf-list{list-style:none;padding:0;counter-reset:shelf}
+.shelf-list li{display:flex;gap:14px;padding:16px 0;border-bottom:1px solid var(--line);margin:0;counter-increment:shelf}
+.shelf .shelf-list img{display:block;width:96px;height:96px;object-fit:cover;border:1px solid var(--line);flex:none;margin:0;padding:0;box-shadow:none}
+.shelf-body{min-width:0;flex:1}
+.shelf-name{margin:0 0 .3em;font-weight:700;line-height:1.5;overflow-wrap:anywhere}
+.shelf-name::before{content:counter(shelf) ". ";color:var(--shu)}
+.shelf-price{margin:0 0 .2em}
+.shelf-sub{margin:0;font-size:.82rem;color:var(--usu);line-height:1.6}
+.shelf-low{color:var(--shu);font-weight:700}
+.shelf-spark{display:block;margin-top:6px;color:var(--shu)}
+.shelf-drops{padding-left:1.2em}
+.shelf-credit{font-size:.8rem;margin-top:2em}

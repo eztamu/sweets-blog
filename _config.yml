@@ -7,6 +7,12 @@ permalink: /:categories/:year/:month/:title/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+collections:
+  shelves:
+    output: true
+    permalink: /erabu/:name/
 defaults:
   - scope: {path: "", type: "posts"}
     values: {layout: post}
+  - scope: {path: "", type: "shelves"}
+    values: {layout: shelf}

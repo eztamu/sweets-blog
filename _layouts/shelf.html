@@ -1,0 +1,51 @@
+---
+layout: default
+---
+{%- assign s = site.data.shelves[page.shelf_id] -%}
+{%- assign aff_id = "shelf-" | append: page.shelf_id -%}
+<article class="shelf">
+<h1>{{ page.title | escape }}</h1>
+{% include pr.html %}
+{% if s and s.rows %}
+<p class="shelf-meta">更新日: {{ s.updated | escape }}（記録開始: {{ s.record_start | escape }}）。価格・ポイント倍率・在庫は取得時点のもので、変わることがあります。購入前に楽天市場の商品ページで確認してください。</p>
+
+{% if s.drops.size > 0 %}
+<h2>前回の記録から値下がりした商品</h2>
+<ul class="shelf-drops">
+{% for d in s.drops %}<li><a data-aff="{{ aff_id | escape }}" data-pos="drop" href="{{ d.url | escape }}" target="_blank" rel="nofollow sponsored noopener">{{ d.name | escape }}</a>　{{ d.price_s | escape }}円（{{ d.diff_s | escape }}）</li>
+{% endfor %}</ul>
+{% endif %}
+
+<h2>レビュー数が多い順の{{ s.rows.size }}件</h2>
+<ol class="shelf-list">
+{% for i in s.rows %}<li>
+{% if i.image and i.image != "" %}<a data-aff="{{ aff_id | escape }}" data-pos="image" href="{{ i.url | escape }}" target="_blank" rel="nofollow sponsored noopener"><img src="{{ i.image | escape }}" alt="{{ i.name | escape }}" width="96" height="96" loading="lazy"></a>{% endif %}
+<div class="shelf-body">
+<p class="shelf-name"><a data-aff="{{ aff_id | escape }}" data-pos="name" href="{{ i.url | escape }}" target="_blank" rel="nofollow sponsored noopener">{{ i.name | escape }}</a></p>
+<p class="shelf-price"><strong>{{ i.price_s | escape }}円</strong>{% if i.postage_free %}（送料込み）{% endif %}{% if i.diff_s and i.diff_s != "" %}　前回比 {{ i.diff_s | escape }}{% endif %}{% if i.is_low %}　<span class="shelf-low">記録開始からの最安値</span>{% endif %}</p>
+<p class="shelf-sub">記録開始からの最安値 {{ i.low_s | escape }}円（{{ i.low_day | escape }}）／ポイント{{ i.point_rate | escape }}倍／レビュー {{ i.review_average | escape }}（{{ i.review_count | escape }}件）／{{ i.shop | escape }}</p>
+{% if i.spark and i.spark != "" %}<svg class="shelf-spark" viewBox="0 0 120 28" width="120" height="28" role="img" aria-label="価格の動き（記録{{ i.days | escape }}日のうち直近最大30日分）"><polyline points="{{ i.spark | escape }}" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>{% endif %}
+</div>
+</li>
+{% endfor %}</ol>
+
+<h2>この一覧の見方</h2>
+<ul>
+<li>楽天市場の商品検索の結果を、レビュー数が多い順に並べています。おすすめ順や品質の評価ではありません。</li>
+<li>価格は1日1回記録しています。「最安値」は、このサイトが記録を始めた日からの最安値です。</li>
+<li>クーポン・ポイント還元・送料の条件は、商品ページで確認してください。</li>
+</ul>
+{% else %}
+<p class="shelf-meta">この一覧は準備中です。</p>
+{% endif %}
+
+{% if page.related_url and page.related_title %}
+<h2>選ぶ前に確認したいこと</h2>
+<p><a href="{{ page.related_url | escape }}">{{ page.related_title | escape }}</a>（4コマ漫画つき）</p>
+{% endif %}
+{% if page.aff %}{% include aff.html id=page.aff %}{% endif %}
+
+<p class="shelf-credit"><a href="https://developers.rakuten.com/" target="_blank" rel="nofollow noopener">Supported by Rakuten Developers</a></p>
+<p><a href="{{ '/erabu/' | relative_url }}">ほかの一覧を見る</a></p>
+</article>
+{% if s and s.rows %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":{{ page.title | replace: "<", "＜" | jsonify }},"itemListElement":[{% for i in s.rows %}{"@type":"ListItem","position":{{ forloop.index }},"name":{{ i.name | replace: "<", "＜" | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]}</script>{% endif %}
