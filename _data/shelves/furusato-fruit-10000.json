@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "record_start": "2026-11-17",
  "rows": [
   {
@@ -11,8 +11,8 @@
    "low_s": "18,800",
    "low_day": "2026-11-19",
    "is_low": false,
-   "diff": -200,
-   "diff_s": "−200円",
+   "diff": 0,
+   "diff_s": "",
    "point_rate": 1,
    "postage_free": true,
    "review_count": 1065,
@@ -21,7 +21,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00srlwe.g5j94d0c.g00srlwe.g5j95343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff287%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001890%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00srlwe.g5j94d0c.g00srlwe.g5j95343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff287%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001890%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08974571/08974588/f180-t520-609-snsr-b.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -43,7 +43,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tfite.g5j94e5a.g00tfite.g5j95086/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192058-yamanashi%2F4005775%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192058-yamanashi%2Fi%2F10001211%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tfite.g5j94e5a.g00tfite.g5j95086/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192058-yamanashi%2F4005775%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192058-yamanashi%2Fi%2F10001211%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f192058-yamanashi/cabinet/12216663/4005775lp_01_sei.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -65,7 +65,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sxc9e.g5j9411b.g00sxc9e.g5j95c65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff414255-shiroishi%2Fizz012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff414255-shiroishi%2Fi%2F10000357%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sxc9e.g5j9411b.g00sxc9e.g5j95c65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff414255-shiroishi%2Fizz012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff414255-shiroishi%2Fi%2F10000357%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f414255-shiroishi/cabinet/item/iaa/iaa024-mlt.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -81,13 +81,13 @@
    "diff_s": "",
    "point_rate": 1,
    "postage_free": true,
-   "review_count": 888,
+   "review_count": 890,
    "review_average": 4.63,
    "shop": "山梨県富士吉田市",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00srlwe.g5j94d0c.g00srlwe.g5j95343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff180-007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001889%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00srlwe.g5j94d0c.g00srlwe.g5j95343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff180-007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001889%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08974571/08974588/imgrc0105154977.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -109,7 +109,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tw2oe.g5j94d97.g00tw2oe.g5j95da5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff012297-furano%2F1257988%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff012297-furano%2Fi%2F10000198%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tw2oe.g5j94d97.g00tw2oe.g5j95da5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff012297-furano%2F1257988%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff012297-furano%2Fi%2F10000198%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f012297-furano/cabinet/09648100/1257988lp_01_re1.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -131,7 +131,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tzvbe.g5j9444e.g00tzvbe.g5j959cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff202118-nakano%2F1272457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff202118-nakano%2Fi%2F10000448%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzvbe.g5j9444e.g00tzvbe.g5j959cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff202118-nakano%2F1272457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff202118-nakano%2Fi%2F10000448%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f202118-nakano/cabinet/1272457mt_lp_01.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -153,7 +153,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sijoe.g5j948e6.g00sijoe.g5j9541e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452041-nichinan%2Fn000349%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452041-nichinan%2Fi%2F10000695%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sijoe.g5j948e6.g00sijoe.g5j9541e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452041-nichinan%2Fn000349%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452041-nichinan%2Fi%2F10000695%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452041-nichinan/cabinet/nanngouhousou/s-c123-24/s-c123-24_r_s_rms-26.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -165,8 +165,8 @@
    "low_s": "18,500",
    "low_day": "2026-11-19",
    "is_low": false,
-   "diff": -500,
-   "diff_s": "−500円",
+   "diff": 0,
+   "diff_s": "",
    "point_rate": 1,
    "postage_free": true,
    "review_count": 696,
@@ -175,7 +175,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sltle.g5j94e48.g00sltle.g5j956f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff024414-sannohe%2F070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff024414-sannohe%2Fi%2F10000069%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sltle.g5j94e48.g00sltle.g5j956f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff024414-sannohe%2F070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff024414-sannohe%2Fi%2F10000069%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f024414-sannohe/cabinet/08863836/11229686/imgrc0099389188.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -197,7 +197,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00to7ee.g5j947c0.g00to7ee.g5j9596a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192112-fuefuki%2F180-006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192112-fuefuki%2Fi%2F10000782%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00to7ee.g5j947c0.g00to7ee.g5j9596a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192112-fuefuki%2F180-006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192112-fuefuki%2Fi%2F10000782%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f192112-fuefuki/cabinet/09005696/imgrc0156748837.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -219,7 +219,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00to7ee.g5j947c0.g00to7ee.g5j9596a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192112-fuefuki%2F227-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192112-fuefuki%2Fi%2F10001716%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00to7ee.g5j947c0.g00to7ee.g5j9596a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192112-fuefuki%2F227-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192112-fuefuki%2Fi%2F10001716%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f192112-fuefuki/cabinet/10999316/227-001_sku-s-r_su_a.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -241,7 +241,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u0oue.g5j9400d.g00u0oue.g5j954d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff012041-asahikawashi%2Fec22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff012041-asahikawashi%2Fi%2F10002110%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0oue.g5j9400d.g00u0oue.g5j954d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff012041-asahikawashi%2Fec22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff012041-asahikawashi%2Fi%2F10002110%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f012041-asahikawashi/cabinet/frp_goods/frp012/100577190.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -263,7 +263,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tlr9e.g5j94d9b.g00tlr9e.g5j95dfe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452076-kushima%2Fku019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452076-kushima%2Fi%2F10000377%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tlr9e.g5j94d9b.g00tlr9e.g5j95dfe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452076-kushima%2Fku019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452076-kushima%2Fi%2F10000377%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f452076-kushima/cabinet/13374429/k001-016-s-a.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -285,7 +285,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u8g2e.g5j94ec6.g00u8g2e.g5j95fe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232319-tahara%2F2022130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232319-tahara%2Fi%2F10000131%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8g2e.g5j94ec6.g00u8g2e.g5j95fe2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232319-tahara%2F2022130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232319-tahara%2Fi%2F10000131%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f232319-tahara/cabinet/item/ichijiku/r_amano-1-.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -307,7 +307,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tevfe.g5j9406c.g00tevfe.g5j95c4d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192040-tsuru%2Ffb003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192040-tsuru%2Fi%2F10001445%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tevfe.g5j9406c.g00tevfe.g5j95c4d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192040-tsuru%2Ffb003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192040-tsuru%2Fi%2F10001445%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f192040-tsuru/cabinet/itemimage/08324638/fb003/fb003_2026_1.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -329,7 +329,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u8g7e.g5j94957.g00u8g7e.g5j95cb6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff092096-moka%2Fae01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff092096-moka%2Fi%2F10000014%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8g7e.g5j94957.g00u8g7e.g5j95cb6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff092096-moka%2Fae01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff092096-moka%2Fi%2F10000014%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f092096-moka/cabinet/09299183/1.jpg?_ex=300x300",
-   "days": 1,
+   "days": 2,
    "spark": ""
   },
   {
@@ -345,13 +345,13 @@
    "diff_s": "",
    "point_rate": 1,
    "postage_free": true,
-   "review_count": 360,
+   "review_count": 362,
    "review_average": 4.61,
    "shop": "和歌山県湯浅町",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00s7ije.g5j949e3.g00s7ije.g5j9586f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff303615-yuasa%2F5600-30016347%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff303615-yuasa%2Fi%2F10001596%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s7ije.g5j949e3.g00s7ije.g5j9586f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff303615-yuasa%2F5600-30016347%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff303615-yuasa%2Fi%2F10001596%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f303615-yuasa/cabinet/f-item02/v6047-sku-s01-0326.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -373,7 +373,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sudge.g5j94550.g00sudge.g5j95391/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff222135-kakegawa%2F34832%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff222135-kakegawa%2Fi%2F10000010%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sudge.g5j94550.g00sudge.g5j95391/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff222135-kakegawa%2F34832%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff222135-kakegawa%2Fi%2F10000010%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f222135-kakegawa/cabinet/0688_1104230_01.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
@@ -395,7 +395,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00t92ze.g5j94d98.g00t92ze.g5j955ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff313726-hokuei%2F19404-30020332%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff313726-hokuei%2Fi%2F10000136%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t92ze.g5j94d98.g00t92ze.g5j955ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff313726-hokuei%2F19404-30020332%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff313726-hokuei%2Fi%2F10000136%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f313726-hokuei/cabinet/frp_goods/frp003/19824352.jpg?_ex=300x300",
-   "days": 1,
+   "days": 2,
    "spark": ""
   },
   {
@@ -417,76 +417,31 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00s7eqe.g5j94a71.g00s7eqe.g5j95ac7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff302040-arida%2F0240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff302040-arida%2Fi%2F10000333%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s7eqe.g5j94a71.g00s7eqe.g5j95ac7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff302040-arida%2F0240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff302040-arida%2Fi%2F10000333%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f302040-arida/cabinet/imgrc0115489422.jpg?_ex=300x300",
-   "days": 3,
+   "days": 4,
    "spark": ""
   },
   {
-   "code": "f192058-yamanashi:10000063",
-   "name": "【ふるさと納税】【2027年発送】500g 1kg 2kg 4kgリピート続出!山梨産シャインマスカット1~9房_フルー",
+   "code": "f313726-hokuei:10000120",
+   "name": "【ふるさと納税】【先行予約】梨 王秋梨 3kg 5kg 鳥取県産 選べる容量 ※2026年10月下旬～12月上旬頃に順次",
    "price": 13000,
    "price_s": "13,000",
    "low": 13000,
    "low_s": "13,000",
-   "low_day": "2026-11-17",
+   "low_day": "2026-11-20",
    "is_low": false,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
    "postage_free": true,
-   "review_count": 301,
-   "review_average": 4.6,
-   "shop": "山梨県山梨市",
-   "url": "https://hb.afl.rakuten.co.jp/hgc/g00tfite.g5j94e5a.g00tfite.g5j95086/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192058-yamanashi%2F1019-1079-05%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192058-yamanashi%2Fi%2F10000063%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
-   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tfite.g5j94e5a.g00tfite.g5j95086/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192058-yamanashi%2F1019-1079-05%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192058-yamanashi%2Fi%2F10000063%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
-   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f192058-yamanashi/cabinet/11685134/1017347mt_01_sei.jpg?_ex=300x300",
-   "days": 3,
+   "review_count": 300,
+   "review_average": 4.26,
+   "shop": "鳥取県北栄町",
+   "url": "https://hb.afl.rakuten.co.jp/hgc/g00t92ze.g5j94d98.g00t92ze.g5j955ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff313726-hokuei%2F19404-30020316%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff313726-hokuei%2Fi%2F10000120%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
+   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t92ze.g5j94d98.g00t92ze.g5j955ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff313726-hokuei%2F19404-30020316%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff313726-hokuei%2Fi%2F10000120%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
+   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f313726-hokuei/cabinet/frp_goods/frp006/22750597.jpg?_ex=300x300",
+   "days": 1,
    "spark": ""
   }
  ],
- "drops": [
-  {
-   "code": "f192023-fujiyoshida:10001890",
-   "name": "【ふるさと納税】 ＼高評価★4.68／ 2027年先行予約 フルーツ 定期便 桃 シャインマスカット 黒ぶどう 選べる回",
-   "price": 18800,
-   "price_s": "18,800",
-   "low": 18800,
-   "low_s": "18,800",
-   "low_day": "2026-11-19",
-   "is_low": false,
-   "diff": -200,
-   "diff_s": "−200円",
-   "point_rate": 1,
-   "postage_free": true,
-   "review_count": 1065,
-   "review_average": 4.67,
-   "shop": "山梨県富士吉田市",
-   "url": "https://hb.afl.rakuten.co.jp/hgc/g00srlwe.g5j94d0c.g00srlwe.g5j95343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff287%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001890%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
-   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00srlwe.g5j94d0c.g00srlwe.g5j95343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff287%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001890%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
-   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08974571/08974588/f180-t520-609-snsr-b.jpg?_ex=300x300",
-   "days": 3,
-   "spark": ""
-  },
-  {
-   "code": "f024414-sannohe:10000069",
-   "name": "【ふるさと納税】★先行予約★ 人気No.1 青森りんご サンふじ【2026年産】 選べる発送月　選べる容量　約5kg ～",
-   "price": 18500,
-   "price_s": "18,500",
-   "low": 18500,
-   "low_s": "18,500",
-   "low_day": "2026-11-19",
-   "is_low": false,
-   "diff": -500,
-   "diff_s": "−500円",
-   "point_rate": 1,
-   "postage_free": true,
-   "review_count": 696,
-   "review_average": 4.25,
-   "shop": "青森県三戸町",
-   "url": "https://hb.afl.rakuten.co.jp/hgc/g00sltle.g5j94e48.g00sltle.g5j956f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff024414-sannohe%2F070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff024414-sannohe%2Fi%2F10000069%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
-   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sltle.g5j94e48.g00sltle.g5j956f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff024414-sannohe%2F070%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff024414-sannohe%2Fi%2F10000069%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
-   "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/f024414-sannohe/cabinet/08863836/11229686/imgrc0099389188.jpg?_ex=300x300",
-   "days": 3,
-   "spark": ""
-  }
- ]
+ "drops": []
 }
