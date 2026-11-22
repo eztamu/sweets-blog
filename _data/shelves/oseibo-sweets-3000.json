@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "record_start": "2026-11-17",
  "rows": [
   {
@@ -10,7 +10,7 @@
    "low": 3000,
    "low_s": "3,000",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
@@ -21,8 +21,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pq4we.g5j94ded.g00pq4we.g5j95747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frl-waffle%2Fw0010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frl-waffle%2Fi%2F10000033%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pq4we.g5j94ded.g00pq4we.g5j95747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frl-waffle%2Fw0010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frl-waffle%2Fi%2F10000033%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rl-waffle/cabinet/600_kyoutu/11706881/imgrc0120426801.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "nagasaki-kasutera:10000382",
@@ -32,7 +32,7 @@
    "low": 3780,
    "low_s": "3,780",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 15,
@@ -43,8 +43,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qaxze.g5j9456a.g00qaxze.g5j9539a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagasaki-kasutera%2Fgift0602%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnagasaki-kasutera%2Fi%2F10000382%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qaxze.g5j9456a.g00qaxze.g5j9539a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagasaki-kasutera%2Fgift0602%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnagasaki-kasutera%2Fi%2F10000382%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/nagasaki-kasutera/cabinet/26wg_cart/26wg_cart_wgqb_p15.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "okashi:10000308",
@@ -54,7 +54,7 @@
    "low": 3560,
    "low_s": "3,560",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
@@ -65,8 +65,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pm5ve.g5j94ec6.g00pm5ve.g5j95e62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokashi%2Fkuri-kinton-10sele%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokashi%2Fi%2F10000308%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pm5ve.g5j94ec6.g00pm5ve.g5j95e62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokashi%2Fkuri-kinton-10sele%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokashi%2Fi%2F10000308%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/okashi/cabinet/img_oseibo/2026-a10-hayawari.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "okashi:10000317",
@@ -76,7 +76,7 @@
    "low": 3980,
    "low_s": "3,980",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -87,8 +87,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pm5ve.g5j94ec6.g00pm5ve.g5j95e62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokashi%2Fkuri-kaki-tsume-10sale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokashi%2Fi%2F10000317%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pm5ve.g5j94ec6.g00pm5ve.g5j95e62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokashi%2Fkuri-kaki-tsume-10sale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokashi%2Fi%2F10000317%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/okashi/cabinet/img_oseibo/2026-a5b5-hayawari.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "tenshi-okurimono:10001239",
@@ -98,19 +98,19 @@
    "low": 3999,
    "low_s": "3,999",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 3,
    "postage_free": false,
-   "review_count": 3711,
+   "review_count": 3712,
    "review_average": 4.71,
    "shop": "パティスリー天使のおくりもの",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00q2tfe.g5j94f8a.g00q2tfe.g5j95553/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenshi-okurimono%2Fte015_healthy_sweets_assort%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenshi-okurimono%2Fi%2F10001239%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q2tfe.g5j94f8a.g00q2tfe.g5j95553/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenshi-okurimono%2Fte015_healthy_sweets_assort%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenshi-okurimono%2Fi%2F10001239%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/tenshi-okurimono/cabinet/te015var/wg/te015v_sn1wg26.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "henri-charpentier:10001037",
@@ -120,19 +120,19 @@
    "low": 3240,
    "low_s": "3,240",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
    "postage_free": true,
-   "review_count": 3283,
+   "review_count": 3285,
    "review_average": 4.74,
    "shop": "アンリ・シャルパンティエ",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F771330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001037%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F771330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001037%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/henri-charpentier/cabinet/2026/campaign2026/p-thumbnail-26/hfm30_p19.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "oyachu:10000197",
@@ -142,7 +142,7 @@
    "low": 3680,
    "low_s": "3,680",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -153,8 +153,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qtw9e.g5j9468d.g00qtw9e.g5j952f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foyachu%2F000-0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foyachu%2Fi%2F10000197%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qtw9e.g5j9468d.g00qtw9e.g5j952f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foyachu%2F000-0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foyachu%2Fi%2F10000197%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/oyachu/cabinet/ygs/ygs_kago1_2507.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "sanintoretatehonpo:10001122",
@@ -164,7 +164,7 @@
    "low": 3480,
    "low_s": "3,480",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -175,8 +175,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qh9we.g5j94354.g00qh9we.g5j95726/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanintoretatehonpo%2Fmtys-mini-jonama-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanintoretatehonpo%2Fi%2F10001122%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qh9we.g5j94354.g00qh9we.g5j95726/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanintoretatehonpo%2Fmtys-mini-jonama-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanintoretatehonpo%2Fi%2F10001122%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanintoretatehonpo/cabinet/sw/fd/js12win17-sam.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kihachi:10000007",
@@ -186,7 +186,7 @@
    "low": 3390,
    "low_s": "3,390",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
@@ -197,8 +197,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r6p8e.g5j9486a.g00r6p8e.g5j95cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkihachi%2Fk12013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkihachi%2Fi%2F10000007%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r6p8e.g5j9486a.g00r6p8e.g5j95cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkihachi%2Fk12013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkihachi%2Fi%2F10000007%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kihachi/cabinet/ban/cp/k12013_26os_p10.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "vanilla:10001279",
@@ -208,7 +208,7 @@
    "low": 3974,
    "low_s": "3,974",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 5,
@@ -219,8 +219,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pjsxe.g5j94315.g00pjsxe.g5j95be9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2Fpch8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10001279%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pjsxe.g5j94315.g00pjsxe.g5j95be9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2Fpch8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10001279%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/vanilla/cabinet/500/xmas/haya_normal/pch8_p5.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "yokumoku:10000435",
@@ -230,19 +230,19 @@
    "low": 3672,
    "low_s": "3,672",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
    "postage_free": false,
-   "review_count": 2702,
+   "review_count": 2703,
    "review_average": 4.71,
    "shop": "ヨックモック 楽天市場店",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6e.g5j94063.g00rvx6e.g5j95253/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000435%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6e.g5j94063.g00rvx6e.g5j95253/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000435%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_thumbnail/aw/10345986/delices40_26aw_p10.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kasyou-morin:10000341",
@@ -252,7 +252,7 @@
    "low": 3240,
    "low_s": "3,240",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 5,
@@ -263,8 +263,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzle.g5j948f8.g00rrzle.g5j955b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Fmorin-healthy-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000341%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzle.g5j948f8.g00rrzle.g5j955b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Fmorin-healthy-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000341%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kasyou-morin/cabinet/05776678/12290198/saika-sum.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kashi:10000157",
@@ -274,7 +274,7 @@
    "low": 3143,
    "low_s": "3,143",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -285,8 +285,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r0q9e.g5j94cbb.g00r0q9e.g5j95955/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkashi%2Fotameshi1800a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkashi%2Fi%2F10000157%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r0q9e.g5j94cbb.g00r0q9e.g5j95955/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkashi%2Fotameshi1800a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkashi%2Fi%2F10000157%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kashi/cabinet/tokusyuu/otameshiset/1800a/iroiro9syu.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "henri-charpentier:10002080",
@@ -296,7 +296,7 @@
    "low": 3240,
    "low_s": "3,240",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
@@ -307,8 +307,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F773104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10002080%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F773104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10002080%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/henri-charpentier/cabinet/2026/campaign2026/p-thumbnail-26/hgch_p19.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "henri-charpentier:10001755",
@@ -318,7 +318,7 @@
    "low": 3240,
    "low_s": "3,240",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
@@ -329,8 +329,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F772475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001755%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F772475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001755%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/henri-charpentier/cabinet/2026/campaign2026/p-thumbnail-26/imgrc0147285788.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "gyokkado:10000225",
@@ -340,7 +340,7 @@
    "low": 3470,
    "low_s": "3,470",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -351,8 +351,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pz2ue.g5j9456c.g00pz2ue.g5j95d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgyokkado%2F648596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgyokkado%2Fi%2F10000225%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pz2ue.g5j9456c.g00pz2ue.g5j95d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgyokkado%2F648596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgyokkado%2Fi%2F10000225%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/gyokkado/cabinet/cart/kiwami_vani_cart.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kasyou-morin:10000052",
@@ -362,7 +362,7 @@
    "low": 3480,
    "low_s": "3,480",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 5,
@@ -373,8 +373,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzle.g5j948f8.g00rrzle.g5j955b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Fd-pudding%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000052%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzle.g5j948f8.g00rrzle.g5j955b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Fd-pudding%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000052%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kasyou-morin/cabinet/06855486/09461603/imgrc0095931880.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "maochan:10000047",
@@ -384,7 +384,7 @@
    "low": 3184,
    "low_s": "3,184",
    "low_day": "2026-11-20",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -395,8 +395,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u37he.g5j945ee.g00u37he.g5j95faa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaochan%2Fmcs-g1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaochan%2Fi%2F10000047%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u37he.g5j945ee.g00u37he.g5j95faa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaochan%2Fmcs-g1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaochan%2Fi%2F10000047%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/maochan/cabinet/shohin/montblanc/mb_1000.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,2.0 20.0,2.0 40.0,2.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "sunrisefarm:10007885",
@@ -406,7 +406,7 @@
    "low": 3977,
    "low_s": "3,977",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -417,8 +417,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00ple3e.g5j94630.g00ple3e.g5j950b3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunrisefarm%2Fsyain%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsunrisefarm%2Fi%2F10007885%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ple3e.g5j94630.g00ple3e.g5j950b3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunrisefarm%2Fsyain%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsunrisefarm%2Fi%2F10007885%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/sunrisefarm/cabinet/01835079/06846854/imgrc0185031332.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "vanilla:10001104",
@@ -428,7 +428,7 @@
    "low": 3974,
    "low_s": "3,974",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 5,
@@ -439,8 +439,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pjsxe.g5j94315.g00pjsxe.g5j95be9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2F182%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10001104%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pjsxe.g5j94315.g00pjsxe.g5j95be9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2F182%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10001104%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/vanilla/cabinet/500/xmas/haya_normal/182_p5.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   }
  ],
  "drops": []

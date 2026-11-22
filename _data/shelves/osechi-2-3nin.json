@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "record_start": "2026-11-17",
  "rows": [
   {
@@ -10,7 +10,7 @@
    "low": 11900,
    "low_s": "11,900",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -21,8 +21,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pv1ye.g5j94409.g00pv1ye.g5j95eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2F2011osechi_maizuru%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000106%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pv1ye.g5j94409.g00pv1ye.g5j95eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2F2011osechi_maizuru%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000106%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamatsu/cabinet/osechi2027/maizuru/maizuru_00_r_haya.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kibun-shop:10000106",
@@ -32,7 +32,7 @@
    "low": 11600,
    "low_s": "11,600",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 2,
@@ -43,8 +43,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r8uge.g5j94ef8.g00r8uge.g5j95663/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkibun-shop%2F10000106%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkibun-shop%2Fi%2F10000106%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r8uge.g5j94ef8.g00r8uge.g5j95663/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkibun-shop%2F10000106%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkibun-shop%2Fi%2F10000106%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kibun-shop/cabinet/osechi2027/disney2027/imgrc0134615729.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "hisamatsu:10000295",
@@ -54,7 +54,7 @@
    "low": 14100,
    "low_s": "14,100",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -65,8 +65,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pv1ye.g5j94409.g00pv1ye.g5j95eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2Fsakurazaka%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000295%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pv1ye.g5j94409.g00pv1ye.g5j95eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2Fsakurazaka%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000295%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamatsu/cabinet/osechi2027/sakurazaka/sakurazaka_00_r_haya.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "otarukitaichi:10003523",
@@ -76,7 +76,7 @@
    "low": 13880,
    "low_s": "13,880",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -87,8 +87,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pklje.g5j94e20.g00pklje.g5j956d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotarukitaichi%2F10003523%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotarukitaichi%2Fi%2F10003523%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pklje.g5j94e20.g00pklje.g5j956d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotarukitaichi%2F10003523%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotarukitaichi%2Fi%2F10003523%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/otarukitaichi/cabinet/osechi/13475551/13475579/27ok_sum1.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "hisamatsu:10000156",
@@ -98,7 +98,7 @@
    "low": 15700,
    "low_s": "15,700",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -109,8 +109,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pv1ye.g5j94409.g00pv1ye.g5j95eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2Ftakasago%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000156%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pv1ye.g5j94409.g00pv1ye.g5j95eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2Ftakasago%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000156%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamatsu/cabinet/osechi2027/takasago/takasago_00_r_haya.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "morigen:10000504",
@@ -120,7 +120,7 @@
    "low": 7280,
    "low_s": "7,280",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -131,8 +131,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r90me.g5j94afe.g00r90me.g5j9505e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorigen%2Foseti-004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorigen%2Fi%2F10000504%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r90me.g5j94afe.g00r90me.g5j9505e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorigen%2Foseti-004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorigen%2Fi%2F10000504%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/morigen/cabinet/syouhin/oseti/oseti-004.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "food-studio:10000002",
@@ -142,7 +142,7 @@
    "low": 12600,
    "low_s": "12,600",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -153,8 +153,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tgyce.g5j94f22.g00tgyce.g5j95817/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffood-studio%2Ffos-yo1a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffood-studio%2Fi%2F10000002%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tgyce.g5j94f22.g00tgyce.g5j95817/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffood-studio%2Ffos-yo1a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffood-studio%2Fi%2F10000002%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/food-studio/cabinet/os/std/shohin/yo1a_3.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "hisamatsu:10000368",
@@ -164,7 +164,7 @@
    "low": 14300,
    "low_s": "14,300",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -175,8 +175,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pv1ye.g5j94409.g00pv1ye.g5j95eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2Fhatsuaka%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000368%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pv1ye.g5j94409.g00pv1ye.g5j95eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2Fhatsuaka%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000368%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hisamatsu/cabinet/osechi2027/hatsuaka/hatsuaka_00_r_haya.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "date-hyakumangoku:10000127",
@@ -186,7 +186,7 @@
    "low": 8800,
    "low_s": "8,800",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -197,8 +197,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u1x1e.g5j94169.g00u1x1e.g5j95abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdate-hyakumangoku%2Fasahi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdate-hyakumangoku%2Fi%2F10000127%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1x1e.g5j94169.g00u1x1e.g5j95abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdate-hyakumangoku%2Fasahi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdate-hyakumangoku%2Fi%2F10000127%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/date-hyakumangoku/cabinet/13548970/13563158/asahi_30.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "ringbellshop:10002253",
@@ -208,7 +208,7 @@
    "low": 20600,
    "low_s": "20,600",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -219,8 +219,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qtf7e.g5j94fb2.g00qtf7e.g5j95cd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringbellshop%2F4855-734%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringbellshop%2Fi%2F10002253%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qtf7e.g5j94fb2.g00qtf7e.g5j95cd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringbellshop%2F4855-734%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringbellshop%2Fi%2F10002253%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringbellshop/cabinet/event_bf10_2/osechi/2027/4865-905.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "ringbellshop:10002953",
@@ -230,7 +230,7 @@
    "low": 21600,
    "low_s": "21,600",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -241,8 +241,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qtf7e.g5j94fb2.g00qtf7e.g5j95cd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringbellshop%2F4859-425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringbellshop%2Fi%2F10002953%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qtf7e.g5j94fb2.g00qtf7e.g5j95cd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringbellshop%2F4859-425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringbellshop%2Fi%2F10002953%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringbellshop/cabinet/event_bf10_2/osechi/2027/4865-898.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kanidokoro:10001277",
@@ -252,7 +252,7 @@
    "low": 17300,
    "low_s": "17,300",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -263,8 +263,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0te.g5j94200.g00rf0te.g5j95142/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10001277%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0te.g5j94200.g00rf0te.g5j95142/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10001277%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/355/355_r-26thum_1210.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kyousaiminomura:10000075",
@@ -274,19 +274,19 @@
    "low": 12000,
    "low_s": "12,000",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
    "postage_free": true,
-   "review_count": 73,
+   "review_count": 74,
    "review_average": 4.93,
    "shop": "京菜味のむら 楽天市場店",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00s53te.g5j94067.g00s53te.g5j95f38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyousaiminomura%2Fosechifukubukuro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyousaiminomura%2Fi%2F10000075%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s53te.g5j94067.g00s53te.g5j95f38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyousaiminomura%2Fosechifukubukuro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyousaiminomura%2Fi%2F10000075%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kyousaiminomura/cabinet/campaign/202610/imgrc0132507629.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kanisho:10000596",
@@ -296,7 +296,7 @@
    "low": 17800,
    "low_s": "17,800",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -307,8 +307,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00s7are.g5j941f7.g00s7are.g5j952a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanisho%2F70893%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanisho%2Fi%2F10000596%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s7are.g5j941f7.g00s7are.g5j952a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanisho%2F70893%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanisho%2Fi%2F10000596%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kanisho/cabinet/04803007/13605843/70893n1_rak.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "morigen:10001142",
@@ -318,7 +318,7 @@
    "low": 6480,
    "low_s": "6,480",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
@@ -329,8 +329,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r90me.g5j94afe.g00r90me.g5j9505e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorigen%2Foseti-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorigen%2Fi%2F10001142%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r90me.g5j94afe.g00r90me.g5j9505e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorigen%2Foseti-010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorigen%2Fi%2F10001142%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/morigen/cabinet/syouhin/oseti/oseti-010.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kanidokoro:10000159",
@@ -340,7 +340,7 @@
    "low": 12800,
    "low_s": "12,800",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -351,8 +351,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0te.g5j94200.g00rf0te.g5j95142/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10000159%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0te.g5j94200.g00rf0te.g5j95142/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10000159%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/069/069_r-26thum_1210.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "isomaru:10001738",
@@ -362,7 +362,7 @@
    "low": 10900,
    "low_s": "10,900",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -373,8 +373,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pyjze.g5j941a1.g00pyjze.g5j957a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fisomaru%2F19oseti-yome2d1-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fisomaru%2Fi%2F10001738%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pyjze.g5j941a1.g00pyjze.g5j957a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fisomaru%2F19oseti-yome2d1-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fisomaru%2Fi%2F10001738%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/isomaru/cabinet/oseti/sio/siokaze-6.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "agurinosho:10000287",
@@ -384,7 +384,7 @@
    "low": 14480,
    "low_s": "14,480",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -395,8 +395,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rqihe.g5j9487e.g00rqihe.g5j9587e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fagurinosho%2Fo-006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fagurinosho%2Fi%2F10000287%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rqihe.g5j9487e.g00rqihe.g5j9587e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fagurinosho%2Fo-006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fagurinosho%2Fi%2F10000287%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/agurinosho/cabinet/03610686/2027/o-006/o-006_01n.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "shopdirectishii:10000079",
@@ -406,7 +406,7 @@
    "low": 18600,
    "low_s": "18,600",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -417,8 +417,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tdcse.g5j94f51.g00tdcse.g5j953ed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopdirectishii%2F8210164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopdirectishii%2Fi%2F10000079%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdcse.g5j94f51.g00tdcse.g5j953ed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopdirectishii%2F8210164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopdirectishii%2Fi%2F10000079%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopdirectishii/cabinet/osechi/osechi2027/8210164/8210164.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "morigen:10000507",
@@ -428,7 +428,7 @@
    "low": 5680,
    "low_s": "5,680",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -439,8 +439,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r90me.g5j94afe.g00r90me.g5j9505e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorigen%2Foseti-007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorigen%2Fi%2F10000507%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r90me.g5j94afe.g00r90me.g5j9505e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorigen%2Foseti-007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorigen%2Fi%2F10000507%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/morigen/cabinet/syouhin/oseti/oseti-007.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   }
  ],
  "drops": []

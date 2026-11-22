@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "record_start": "2026-11-17",
  "rows": [
   {
@@ -10,19 +10,19 @@
    "low": 4752,
    "low_s": "4,752",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
    "postage_free": true,
-   "review_count": 109,
+   "review_count": 110,
    "review_average": 4.81,
    "shop": "銀座コージーコーナー",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qt84e.g5j94d45.g00qt84e.g5j95013/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozycorner%2Fktncd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozycorner%2Fi%2F10001834%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qt84e.g5j94d45.g00qt84e.g5j95013/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozycorner%2Fktncd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozycorner%2Fi%2F10001834%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cozycorner/cabinet/bnr/ktncdr26p10.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "cozycorner:10001833",
@@ -32,7 +32,7 @@
    "low": 4320,
    "low_s": "4,320",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 10,
@@ -43,8 +43,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qt84e.g5j94d45.g00qt84e.g5j95013/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozycorner%2Fktnd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozycorner%2Fi%2F10001833%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qt84e.g5j94d45.g00qt84e.g5j95013/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozycorner%2Fktnd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozycorner%2Fi%2F10001833%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/cozycorner/cabinet/bnr/ktncdr_p10.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "auc-sunfarm:10000189",
@@ -54,7 +54,7 @@
    "low": 4400,
    "low_s": "4,400",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -65,8 +65,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qfhke.g5j94fda.g00qfhke.g5j955de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-sunfarm%2F10000189%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-sunfarm%2Fi%2F10000189%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qfhke.g5j94fda.g00qfhke.g5j955de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-sunfarm%2F10000189%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-sunfarm%2Fi%2F10000189%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-sunfarm/cabinet/imgrc0064535962.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "auc-sunfarm:10000043",
@@ -76,7 +76,7 @@
    "low": 5750,
    "low_s": "5,750",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -87,8 +87,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qfhke.g5j94fda.g00qfhke.g5j955de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-sunfarm%2F10000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-sunfarm%2Fi%2F10000043%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qfhke.g5j94fda.g00qfhke.g5j955de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-sunfarm%2F10000043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-sunfarm%2Fi%2F10000043%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-sunfarm/cabinet/imgrc0064535962.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "photocake-santaangela:10000056",
@@ -98,7 +98,7 @@
    "low": 4700,
    "low_s": "4,700",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -109,8 +109,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u46we.g5j94a9f.g00u46we.g5j95ea0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fphotocake-santaangela%2F18818%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fphotocake-santaangela%2Fi%2F10000056%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u46we.g5j94a9f.g00u46we.g5j95ea0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fphotocake-santaangela%2F18818%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fphotocake-santaangela%2Fi%2F10000056%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/photocake-santaangela/cabinet/08506740/08509621/imgrc0120464462.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "musubi-cafe:10000012",
@@ -120,7 +120,7 @@
    "low": 6990,
    "low_s": "6,990",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -131,8 +131,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sqj1e.g5j94010.g00sqj1e.g5j95075/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmusubi-cafe%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmusubi-cafe%2Fi%2F10000012%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sqj1e.g5j94010.g00sqj1e.g5j95075/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmusubi-cafe%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmusubi-cafe%2Fi%2F10000012%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/musubi-cafe/cabinet/compass1636274195.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "photocake-santaangela:10000097",
@@ -142,7 +142,7 @@
    "low": 4700,
    "low_s": "4,700",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -153,8 +153,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u46we.g5j94a9f.g00u46we.g5j95ea0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fphotocake-santaangela%2F18815%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fphotocake-santaangela%2Fi%2F10000097%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u46we.g5j94a9f.g00u46we.g5j95ea0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fphotocake-santaangela%2F18815%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fphotocake-santaangela%2Fi%2F10000097%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/photocake-santaangela/cabinet/08506740/08509621/imgrc0120464293.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "musubi-cafe:10000013",
@@ -164,7 +164,7 @@
    "low": 4400,
    "low_s": "4,400",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -175,8 +175,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sqj1e.g5j94010.g00sqj1e.g5j95075/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmusubi-cafe%2F10000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmusubi-cafe%2Fi%2F10000013%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sqj1e.g5j94010.g00sqj1e.g5j95075/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmusubi-cafe%2F10000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmusubi-cafe%2Fi%2F10000013%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/musubi-cafe/cabinet/compass1636270983.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "hamako:10000188",
@@ -197,7 +197,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00ry1he.g5j94bc2.g00ry1he.g5j95eb6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamako%2F19%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhamako%2Fi%2F10000188%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ry1he.g5j94bc2.g00ry1he.g5j95eb6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamako%2F19%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhamako%2Fi%2F10000188%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hamako/cabinet/chiristmas/2023ac01r.jpg?_ex=300x300",
-   "days": 4,
+   "days": 5,
    "spark": ""
   },
   {
@@ -208,7 +208,7 @@
    "low": 4400,
    "low_s": "4,400",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -219,8 +219,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00uiyee.g5j94419.g00uiyee.g5j953de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fholoimua%2Fcompass1699157522%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fholoimua%2Fi%2F10000001%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uiyee.g5j94419.g00uiyee.g5j953de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fholoimua%2Fcompass1699157522%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fholoimua%2Fi%2F10000001%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/holoimua/cabinet/compass1700479154.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "lecadeaukotobuki:10000906",
@@ -230,7 +230,7 @@
    "low": 6930,
    "low_s": "6,930",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -241,8 +241,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sk7me.g5j94296.g00sk7me.g5j95097/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecadeaukotobuki%2Fcream-5-xmas-noegg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecadeaukotobuki%2Fi%2F10000906%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sk7me.g5j94296.g00sk7me.g5j95097/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecadeaukotobuki%2Fcream-5-xmas-noegg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecadeaukotobuki%2Fi%2F10000906%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/lecadeaukotobuki/cabinet/top/cream-5-xmas-noegg.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   }
  ],
  "drops": []

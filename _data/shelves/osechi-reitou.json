@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "record_start": "2026-11-17",
  "rows": [
   {
@@ -10,7 +10,7 @@
    "low": 9730,
    "low_s": "9,730",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -21,8 +21,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fsandannp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000394%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fsandannp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000394%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/131300-thmb_rakuten.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000392",
@@ -32,7 +32,7 @@
    "low": 12930,
    "low_s": "12,930",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -43,8 +43,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fsandan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000392%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fsandan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000392%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/131101-thmb_rakuten.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "otarukitaichi:10002651",
@@ -54,7 +54,7 @@
    "low": 16380,
    "low_s": "16,380",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 3,
@@ -65,8 +65,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pklje.g5j94e20.g00pklje.g5j956d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotarukitaichi%2F970541%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotarukitaichi%2Fi%2F10002651%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pklje.g5j94e20.g00pklje.g5j956d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotarukitaichi%2F970541%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotarukitaichi%2Fi%2F10002651%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/otarukitaichi/cabinet/osechi/13475551/13475554/27sho_sum1.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "date-hyakumangoku:10000043",
@@ -76,7 +76,7 @@
    "low": 12500,
    "low_s": "12,500",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -87,8 +87,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u1x1e.g5j94169.g00u1x1e.g5j95abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdate-hyakumangoku%2Fmonitor-osechi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdate-hyakumangoku%2Fi%2F10000043%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1x1e.g5j94169.g00u1x1e.g5j95abf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdate-hyakumangoku%2Fmonitor-osechi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdate-hyakumangoku%2Fi%2F10000043%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/date-hyakumangoku/cabinet/13548970/13618347/imgrc0130073255.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "otarukitaichi:10002117",
@@ -98,7 +98,7 @@
    "low": 22980,
    "low_s": "22,980",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -109,8 +109,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pklje.g5j94e20.g00pklje.g5j956d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotarukitaichi%2F970540%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotarukitaichi%2Fi%2F10002117%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pklje.g5j94e20.g00pklje.g5j956d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotarukitaichi%2F970540%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotarukitaichi%2Fi%2F10002117%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/otarukitaichi/cabinet/osechi/13475551/13475552/27gk_sum1.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000831",
@@ -120,7 +120,7 @@
    "low": 16430,
    "low_s": "16,430",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -131,8 +131,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fsandan_sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000831%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fsandan_sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000831%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/234400-thmbk_rakuten_1027.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "tokatsu-foods:10000209",
@@ -142,7 +142,7 @@
    "low": 15980,
    "low_s": "15,980",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 5,
@@ -153,8 +153,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00q8n1e.g5j94535.g00q8n1e.g5j95763/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokatsu-foods%2Fyorokobi2013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokatsu-foods%2Fi%2F10000209%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q8n1e.g5j94535.g00q8n1e.g5j95763/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokatsu-foods%2Fyorokobi2013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokatsu-foods%2Fi%2F10000209%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/tokatsu-foods/cabinet/osechi/event/27_houou-h_ep14.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000397",
@@ -164,7 +164,7 @@
    "low": 20430,
    "low_s": "20,430",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -175,8 +175,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fgodan_2010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000397%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fgodan_2010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000397%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/251101-thmb_rakuten.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "belluna-gourmet:10024495",
@@ -186,7 +186,7 @@
    "low": 11290,
    "low_s": "11,290",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -197,8 +197,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qikfe.g5j94222.g00qikfe.g5j95693/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbelluna-gourmet%2F7823753%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbelluna-gourmet%2Fi%2F10024495%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qikfe.g5j94222.g00qikfe.g5j95693/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbelluna-gourmet%2F7823753%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbelluna-gourmet%2Fi%2F10024495%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/belluna-gourmet/cabinet/2027/osechi/260930/7823753.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000389",
@@ -208,7 +208,7 @@
    "low": 16430,
    "low_s": "16,430",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -219,8 +219,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fgodan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000389%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fgodan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000389%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/251300-thmb_rakuten.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000396",
@@ -230,7 +230,7 @@
    "low": 16930,
    "low_s": "16,930",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -241,8 +241,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fyondan_2010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000396%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fyondan_2010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000396%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/241101-thmb_rakuten.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "otarukitaichi:10001869",
@@ -252,7 +252,7 @@
    "low": 13980,
    "low_s": "13,980",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 3,
@@ -263,8 +263,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pklje.g5j94e20.g00pklje.g5j956d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotarukitaichi%2F918237%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotarukitaichi%2Fi%2F10001869%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pklje.g5j94e20.g00pklje.g5j956d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotarukitaichi%2F918237%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotarukitaichi%2Fi%2F10001869%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/otarukitaichi/cabinet/osechi/13475551/13475574/27kd_sum1.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000942",
@@ -274,7 +274,7 @@
    "low": 14930,
    "low_s": "14,930",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -285,8 +285,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fhisyou%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000942%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fhisyou%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000942%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/2-itamae/cabinet/2027/mail/thum/imgrc0160896483.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000566",
@@ -296,7 +296,7 @@
    "low": 13930,
    "low_s": "13,930",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -307,8 +307,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fyondannp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000566%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fyondannp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000566%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/241300-thmb_rakuten.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000565",
@@ -318,7 +318,7 @@
    "low": 8430,
    "low_s": "8,430",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -329,8 +329,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fnidannp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000565%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fnidannp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000565%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/121300-thmb_rakuten.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kyousaiminomura:10000040",
@@ -340,7 +340,7 @@
    "low": 14800,
    "low_s": "14,800",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -351,8 +351,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00s53te.g5j94067.g00s53te.g5j95f38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyousaiminomura%2Fosechi-hanagosyo-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyousaiminomura%2Fi%2F10000040%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s53te.g5j94067.g00s53te.g5j95f38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyousaiminomura%2Fosechi-hanagosyo-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyousaiminomura%2Fi%2F10000040%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kyousaiminomura/cabinet/campaign/202611/thumb/osechi-hanagosyo-6a.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "kouragumi:10001537",
@@ -362,7 +362,7 @@
    "low": 9480,
    "low_s": "9,480",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 3,
@@ -373,8 +373,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r77te.g5j947d0.g00r77te.g5j95c57/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F500007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001537%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77te.g5j947d0.g00r77te.g5j95c57/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F500007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001537%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/07495043/07842136/imgrc0104949875.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "2-itamae:10000436",
@@ -384,7 +384,7 @@
    "low": 27880,
    "low_s": "27,880",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 1,
@@ -395,8 +395,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Frokudan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000436%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlvoe.g5j94155.g00qlvoe.g5j95bbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Frokudan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000436%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_gold/2-itamae/img/2027/item/261101-thmb_rakuten.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "tokatsu-foods:10000186",
@@ -406,7 +406,7 @@
    "low": 13980,
    "low_s": "13,980",
    "low_day": "2026-11-17",
-   "is_low": false,
+   "is_low": true,
    "diff": 0,
    "diff_s": "",
    "point_rate": 5,
@@ -417,8 +417,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00q8n1e.g5j94535.g00q8n1e.g5j95763/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokatsu-foods%2Futage2011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokatsu-foods%2Fi%2F10000186%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q8n1e.g5j94535.g00q8n1e.g5j95763/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokatsu-foods%2Futage2011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokatsu-foods%2Fi%2F10000186%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/tokatsu-foods/cabinet/osechi/event/27_utage2011-h_ep14.jpg?_ex=300x300",
-   "days": 6,
-   "spark": ""
+   "days": 7,
+   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
   },
   {
    "code": "rebun:10002915",
@@ -439,7 +439,7 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pp1qe.g5j949ef.g00pp1qe.g5j95de1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frebun%2F1477839%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frebun%2Fi%2F10002915%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pp1qe.g5j949ef.g00pp1qe.g5j95de1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frebun%2F1477839%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frebun%2Fi%2F10002915%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rebun/cabinet/osechi/26atsusc.jpg?_ex=300x300",
-   "days": 1,
+   "days": 2,
    "spark": ""
   }
  ],
