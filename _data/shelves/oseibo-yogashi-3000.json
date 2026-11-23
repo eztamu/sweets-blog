@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "record_start": "2026-11-17",
  "rows": [
   {
@@ -21,8 +21,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pq4we.g5j94ded.g00pq4we.g5j95747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frl-waffle%2Fw0010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frl-waffle%2Fi%2F10000033%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pq4we.g5j94ded.g00pq4we.g5j95747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frl-waffle%2Fw0010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frl-waffle%2Fi%2F10000033%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rl-waffle/cabinet/600_kyoutu/11706881/imgrc0120426801.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "tenshi-okurimono:10001239",
@@ -37,14 +37,14 @@
    "diff_s": "",
    "point_rate": 3,
    "postage_free": false,
-   "review_count": 3712,
+   "review_count": 3715,
    "review_average": 4.71,
    "shop": "パティスリー天使のおくりもの",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00q2tfe.g5j94f8a.g00q2tfe.g5j95553/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenshi-okurimono%2Fte015_healthy_sweets_assort%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenshi-okurimono%2Fi%2F10001239%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q2tfe.g5j94f8a.g00q2tfe.g5j95553/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenshi-okurimono%2Fte015_healthy_sweets_assort%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenshi-okurimono%2Fi%2F10001239%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/tenshi-okurimono/cabinet/te015var/wg/te015v_sn1wg26.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "henri-charpentier:10001037",
@@ -59,14 +59,14 @@
    "diff_s": "",
    "point_rate": 10,
    "postage_free": true,
-   "review_count": 3285,
+   "review_count": 3286,
    "review_average": 4.74,
    "shop": "アンリ・シャルパンティエ",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F771330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001037%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F771330%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001037%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/henri-charpentier/cabinet/2026/campaign2026/p-thumbnail-26/hfm30_p19.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "oyachu:10000197",
@@ -87,8 +87,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qtw9e.g5j9468d.g00qtw9e.g5j952f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foyachu%2F000-0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foyachu%2Fi%2F10000197%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qtw9e.g5j9468d.g00qtw9e.g5j952f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foyachu%2F000-0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foyachu%2Fi%2F10000197%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/oyachu/cabinet/ygs/ygs_kago1_2507.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "kihachi:10000007",
@@ -103,14 +103,14 @@
    "diff_s": "",
    "point_rate": 10,
    "postage_free": true,
-   "review_count": 2961,
+   "review_count": 2962,
    "review_average": 4.59,
    "shop": "キハチオンラインショップ",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r6p8e.g5j9486a.g00r6p8e.g5j95cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkihachi%2Fk12013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkihachi%2Fi%2F10000007%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r6p8e.g5j9486a.g00r6p8e.g5j95cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkihachi%2Fk12013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkihachi%2Fi%2F10000007%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kihachi/cabinet/ban/cp/k12013_26os_p10.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "vanilla:10001279",
@@ -131,8 +131,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pjsxe.g5j94315.g00pjsxe.g5j95be9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2Fpch8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10001279%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pjsxe.g5j94315.g00pjsxe.g5j95be9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2Fpch8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10001279%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/vanilla/cabinet/500/xmas/haya_normal/pch8_p5.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "yokumoku:10000435",
@@ -153,8 +153,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6e.g5j94063.g00rvx6e.g5j95253/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000435%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6e.g5j94063.g00rvx6e.g5j95253/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000435%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_thumbnail/aw/10345986/delices40_26aw_p10.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "kasyou-morin:10000341",
@@ -175,8 +175,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzle.g5j948f8.g00rrzle.g5j955b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Fmorin-healthy-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000341%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzle.g5j948f8.g00rrzle.g5j955b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Fmorin-healthy-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000341%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kasyou-morin/cabinet/05776678/12290198/saika-sum.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "henri-charpentier:10002080",
@@ -191,14 +191,14 @@
    "diff_s": "",
    "point_rate": 10,
    "postage_free": true,
-   "review_count": 2522,
+   "review_count": 2525,
    "review_average": 4.71,
    "shop": "アンリ・シャルパンティエ",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F773104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10002080%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F773104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10002080%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/henri-charpentier/cabinet/2026/campaign2026/p-thumbnail-26/hgch_p19.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "henri-charpentier:10001755",
@@ -213,18 +213,18 @@
    "diff_s": "",
    "point_rate": 10,
    "postage_free": true,
-   "review_count": 2146,
+   "review_count": 2150,
    "review_average": 4.75,
    "shop": "アンリ・シャルパンティエ",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F772475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001755%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F772475%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001755%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/henri-charpentier/cabinet/2026/campaign2026/p-thumbnail-26/imgrc0147285788.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "gyokkado:10000225",
-   "name": "＼早割ポイント3倍／お歳暮 スイーツ ギフト クリスマス 誕生日プレゼント 女友達 送料無料 極プリン 5個入 箱入 メ",
+   "name": "お歳暮 スイーツ ギフト クリスマス 誕生日プレゼント 女友達 送料無料 極プリン 5個入 箱入 メッセージカード バニ",
    "price": 3470,
    "price_s": "3,470",
    "low": 3470,
@@ -241,8 +241,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pz2ue.g5j9456c.g00pz2ue.g5j95d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgyokkado%2F648596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgyokkado%2Fi%2F10000225%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pz2ue.g5j9456c.g00pz2ue.g5j95d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgyokkado%2F648596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgyokkado%2Fi%2F10000225%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/gyokkado/cabinet/cart/kiwami_vani_cart.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "kasyou-morin:10000052",
@@ -263,8 +263,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzle.g5j948f8.g00rrzle.g5j955b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Fd-pudding%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000052%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzle.g5j948f8.g00rrzle.g5j955b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Fd-pudding%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000052%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/kasyou-morin/cabinet/06855486/09461603/imgrc0095931880.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "vanilla:10001104",
@@ -285,8 +285,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pjsxe.g5j94315.g00pjsxe.g5j95be9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2F182%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10001104%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pjsxe.g5j94315.g00pjsxe.g5j95be9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2F182%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10001104%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/vanilla/cabinet/500/xmas/haya_normal/182_p5.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "bellevie-harima:10037552",
@@ -301,14 +301,14 @@
    "diff_s": "",
    "point_rate": 1,
    "postage_free": true,
-   "review_count": 1267,
+   "review_count": 1268,
    "review_average": 4.62,
    "shop": "ソムリエ@ギフト",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00q1q9e.g5j94991.g00q1q9e.g5j95d98/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2Fdanke-3000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10037552%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q1q9e.g5j94991.g00q1q9e.g5j95d98/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbellevie-harima%2Fdanke-3000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbellevie-harima%2Fi%2F10037552%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/bellevie-harima/cabinet/1119/gift2/sf28_s1a.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "gyokkado:10000222",
@@ -329,8 +329,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pz2ue.g5j9456c.g00pz2ue.g5j95d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgyokkado%2F643045%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgyokkado%2Fi%2F10000222%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pz2ue.g5j9456c.g00pz2ue.g5j95d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgyokkado%2F643045%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgyokkado%2Fi%2F10000222%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/gyokkado/cabinet/cart/kiwami-ari-vani_cart.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "henri-charpentier:10001741",
@@ -351,8 +351,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F772465%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001741%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxe.g5j94d4b.g00qsfxe.g5j952d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F772465%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhenri-charpentier%2Fi%2F10001741%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/henri-charpentier/cabinet/2026/campaign2026/p-thumbnail-26/hym-30n3_p19.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "yokumoku:10000688",
@@ -367,18 +367,18 @@
    "diff_s": "",
    "point_rate": 1,
    "postage_free": false,
-   "review_count": 1071,
+   "review_count": 1072,
    "review_average": 4.63,
    "shop": "ヨックモック 楽天市場店",
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6e.g5j94063.g00rvx6e.g5j95253/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011213040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000688%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6e.g5j94063.g00rvx6e.g5j95253/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011213040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000688%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_thumbnail/ec/10346714/ygnv-a_07_p10.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "hanaechizen:10000141",
-   "name": "【ポイント5倍】ブラックフライデー クリスマス お歳暮 冬の贈り物 お年賀 プレゼント スイーツ お祝 ケーキ お菓子 ",
+   "name": "【ポイント5倍】クリスマス お歳暮 冬の贈り物 お年賀 プレゼント スイーツ お祝 ケーキ お菓子 送料無料 天使のドゥ",
    "price": 3780,
    "price_s": "3,780",
    "low": 3780,
@@ -395,8 +395,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qcqwe.g5j944a1.g00qcqwe.g5j95cb1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanaechizen%2Fcheese002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanaechizen%2Fi%2F10000141%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qcqwe.g5j944a1.g00qcqwe.g5j95cb1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanaechizen%2Fcheese002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanaechizen%2Fi%2F10000141%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hanaechizen/cabinet/medama/xmas/cheese002_me26x.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "muraikashiho:10001712",
@@ -417,8 +417,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qlq2e.g5j94d0f.g00qlq2e.g5j950f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmuraikashiho%2Fpote5mpkp6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmuraikashiho%2Fi%2F10001712%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qlq2e.g5j94d0f.g00qlq2e.g5j950f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmuraikashiho%2Fpote5mpkp6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmuraikashiho%2Fi%2F10001712%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/muraikashiho/cabinet/samne/imgrc0080751219.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   },
   {
    "code": "hokkaido-gourmation:10019894",
@@ -439,8 +439,8 @@
    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qwiqe.g5j94792.g00qwiqe.g5j95076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaido-gourmation%2F11-0592-035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhokkaido-gourmation%2Fi%2F10019894%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qwiqe.g5j94792.g00qwiqe.g5j95076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaido-gourmation%2F11-0592-035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhokkaido-gourmation%2Fi%2F10019894%2F&rafcid=wsc_i_is_b07f4992-6a02-4d81-99d0-54b67095641a",
    "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/hokkaido-gourmation/cabinet/syouhin/04574534/ginzajerry-b.jpg?_ex=300x300",
-   "days": 7,
-   "spark": "0.0,26.0 20.0,26.0 40.0,26.0 60.0,26.0 80.0,26.0 100.0,26.0 120.0,26.0"
+   "days": 8,
+   "spark": "0.0,26.0 17.1,26.0 34.3,26.0 51.4,26.0 68.6,26.0 85.7,26.0 102.9,26.0 120.0,26.0"
   }
  ],
  "drops": []
